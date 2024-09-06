@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gsgupanelpf/static/css/main.502ef145.css",
+    "main.css": "/gsgupanelpf/static/css/main.751a4276.css",
     "main.js": "/gsgupanelpf/static/js/main.033802df.js",
     "static/media/1.jpg": "/gsgupanelpf/static/media/1.5fb1fba65f9b095defbf.jpg",
     "static/media/3.jpg": "/gsgupanelpf/static/media/3.4747e12193f91152e3cb.jpg",
@@ -18,11 +18,11 @@
     "static/media/gsgu-logo.png": "/gsgupanelpf/static/media/gsgu-logo.83591ffbf325b3cbe8a1.png",
     "static/media/qr-vk.svg": "/gsgupanelpf/static/media/qr-vk.177aad240d48617a10fe64d9395af456.svg",
     "index.html": "/gsgupanelpf/index.html",
-    "main.502ef145.css.map": "/gsgupanelpf/static/css/main.502ef145.css.map",
+    "main.751a4276.css.map": "/gsgupanelpf/static/css/main.751a4276.css.map",
     "main.033802df.js.map": "/gsgupanelpf/static/js/main.033802df.js.map"
   },
   "entrypoints": [
-    "static/css/main.502ef145.css",
+    "static/css/main.751a4276.css",
     "static/js/main.033802df.js"
   ]
 }
